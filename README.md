@@ -8,10 +8,10 @@ And a big experimental music lover, you can check my [telegram](t.me/hazyg) for 
 
 - I'm currently working in many projects that you may see on my feed or some private repos for organizations and stuff
 
-I'm a big **Svelte** Lover
-Functional Programming Entusiast with Typescript and F# 
+- I'm a big **Svelte** Lover
+- Functional Programming Entusiast with Typescript and F# 
 (Still working in the mastery of these languages eh)
-And i consider a myself a CSS master also ^^, being part of challenges like css codegolf and still looking for more challenges 🤩
+- And i consider a myself a CSS master also ^^, being part of challenges like css codegolf and still looking for more challenges 🤩
 
 You can check more info on hazy.surge.sh
 And contact me on twitter/gracrys

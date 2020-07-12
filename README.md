@@ -4,7 +4,7 @@
 A Programmer specialized in Front End Development
 UI / UX  Designer in training
 Hobbyist Writer 
-And a big experimental music lover, you can check my [telegram](t.me/hazyg) for more details and my channels / groups
+And a big experimental music lover, you can check my [telegram](https://t.me/hazyg) for more details and my channels / groups
 
 - I'm currently working in many projects that you may see on my feed or some private repos for organizations and stuff
 
@@ -13,8 +13,8 @@ And a big experimental music lover, you can check my [telegram](t.me/hazyg) for 
 (Still working in the mastery of these languages eh)
 - And i consider a myself a CSS master also ^^, being part of challenges like css codegolf and still looking for more! 🤩
 
-You can check more info on hazy.surge.sh
-And contact me on twitter/gracrys
+You can check more info on [hazy.surge.sh](https://hazy.surge.sh)
+And contact me on [twitter as gracrys](https://twitter.com/gracrys)
 😊
 
 

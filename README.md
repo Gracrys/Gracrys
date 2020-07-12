@@ -11,7 +11,7 @@ And a big experimental music lover, you can check my [telegram](t.me/hazyg) for 
 - I'm a big **Svelte** Lover
 - Functional Programming Entusiast with Typescript and F# 
 (Still working in the mastery of these languages eh)
-- And i consider a myself a CSS master also ^^, being part of challenges like css codegolf and still looking for more challenges 🤩
+- And i consider a myself a CSS master also ^^, being part of challenges like css codegolf and still looking for more! 🤩
 
 You can check more info on hazy.surge.sh
 And contact me on twitter/gracrys

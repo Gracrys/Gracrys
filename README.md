@@ -9,7 +9,7 @@ And a big experimental music lover, you can check my [telegram](https://t.me/haz
 - I'm currently working in many projects that you may see on my feed or some private repos for organizations and stuff
 
 - I'm a big **Svelte** Lover
-- Functional Programming Entusiast with Typescript and F# 
+- Functional Programming Entusiast with Typescript
 (Still working in the mastery of these languages eh)
 - And i consider a myself a CSS master also ^^, being part of challenges like css codegolf and still looking for more! 🤩
 
